@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Khushi Bhardwaj
 - 💻 I'm a first-year Computer Science undergraduate student at Georgia Tech
-- 👀 I’m passionate about AI, Computational sustainibilites and Data Analytics
+- 👀 I’m passionate about AI, Computational sustainibility and Data Analytics
 - 🌱 I’m currently learning game development with React, using APIs for sentiment analysis, and SQL for data analytics
 - 📫 How to reach me: khushi.bhardwaj@gatech.edu 
 
