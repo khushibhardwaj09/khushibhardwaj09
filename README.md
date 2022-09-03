@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Khushi Bhardwaj
-- 💻 I'm a first-year Computer Science undergraduate student at Georgia Tech
+- 💻 I'm a second-year Computer Science undergraduate student at Georgia Tech
 - 👀 I’m passionate about NLP, CV and Computational sustainibility
 - 📫 How to reach me: khushi.bhardwaj@gatech.edu 
 
